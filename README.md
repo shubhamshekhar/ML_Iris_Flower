@@ -60,6 +60,9 @@ This project is licensed under the **MIT License**.
 **💡 Contributing**: Feel free to fork, open issues, or contribute improvements! 🚀
 
 Difficulty: 2/10
+
 Resume Value: 2/10
+
 Learning Value: 6/10
+
 Real World Impact: 3/10
